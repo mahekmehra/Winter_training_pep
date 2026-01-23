@@ -13,6 +13,8 @@ for(int i=0;i<q;i++){
 
 return arr;
 
+//optimised approach
+
 
 vector<int> diffArray(vector<int>& arr, vector<vector<int>>& opr) {
         // code here
