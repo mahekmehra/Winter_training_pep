@@ -41,3 +41,29 @@ vector<int> diffArray(vector<int>& arr, vector<vector<int>>& opr) {
         
         return arr;
 }
+
+//Constant space Complexity
+
+vector<int> diffArray(vector<int>& arr, vector<vector<int>>& opr) {
+        
+        int n = arr.size();
+        for(int i=n-1;i>0;i--){
+            arr[i]-=arr[i-1];
+        }
+        
+        for(int i=0;i<opr.size();i++){
+            int l = opr[i][0];
+            int r = opr[i][1];
+            int val = opr[i][2];
+            
+            arr[l]+=val;
+            
+            if(r+1<n) arr[r+1]-=val;
+        }
+        
+        for(int i=1;i<n;i++){
+            arr[i]+=arr[i-1];
+        }
+        
+        return arr;
+}
