@@ -13,7 +13,7 @@ public:
             while(i<j){
                 int sum = nums[i] + nums[j] + first;
 
-                if(sum==target) ans = sum;
+                if(sum==target) return sum;
                 else if(abs(target-sum)<abs(target-ans)) ans = sum;
                 if(sum<target) i++;
                 else j--;
