@@ -7,10 +7,7 @@ public:
 
         if(i<0 || j<0 || i>=board.size() || j>=board[0].size() || visited[i][j]==true || board[i][j]!=word[point])return false;
 
-        if(point==word.size()-1){
-            if(board[i][j]==word[word.size()-1]) return true;
-            else return false;
-        }
+        if(point==word.size()-1) return true;
 
         visited[i][j] = true;
         
