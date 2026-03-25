@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mahekmehra/Winter_training_pep/tree/master/0016-3sum-closest) |
 | [0053-maximum-subarray](https://github.com/mahekmehra/Winter_training_pep/tree/master/0053-maximum-subarray) |
+| [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahekmehra/Winter_training_pep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahekmehra/Winter_training_pep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mahekmehra/Winter_training_pep/tree/master/0016-3sum-closest) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
