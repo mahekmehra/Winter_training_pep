@@ -68,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0032-longest-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/mahekmehra/Winter_training_pep/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
