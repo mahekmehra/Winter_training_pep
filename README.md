@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/mahekmehra/Winter_training_pep/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/mahekmehra/Winter_training_pep/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/mahekmehra/Winter_training_pep/tree/master/0610-triangle-judgement) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/mahekmehra/Winter_training_pep/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
