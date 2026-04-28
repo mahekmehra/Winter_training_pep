@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1773-count-items-matching-a-rule](https://github.com/mahekmehra/Winter_training_pep/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/mahekmehra/Winter_training_pep/tree/master/1816-truncate-sentence) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mahekmehra/Winter_training_pep/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mahekmehra/Winter_training_pep/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 <!---LeetCode Topics End-->
