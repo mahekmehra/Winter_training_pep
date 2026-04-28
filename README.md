@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
 | [0520-detect-capital](https://github.com/mahekmehra/Winter_training_pep/tree/master/0520-detect-capital) |
 | [0824-goat-latin](https://github.com/mahekmehra/Winter_training_pep/tree/master/0824-goat-latin) |
+| [1507-reformat-date](https://github.com/mahekmehra/Winter_training_pep/tree/master/1507-reformat-date) |
 ## Sliding Window
 |  |
 | ------- |
