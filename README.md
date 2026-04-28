@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahekmehra/Winter_training_pep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1773-count-items-matching-a-rule](https://github.com/mahekmehra/Winter_training_pep/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/mahekmehra/Winter_training_pep/tree/master/1816-truncate-sentence) |
 ## Divide and Conquer
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/mahekmehra/Winter_training_pep/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/mahekmehra/Winter_training_pep/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mahekmehra/Winter_training_pep/tree/master/0075-sort-colors) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1394-find-lucky-integer-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
