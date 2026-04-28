@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mahekmehra/Winter_training_pep/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahekmehra/Winter_training_pep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1773-count-items-matching-a-rule](https://github.com/mahekmehra/Winter_training_pep/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/mahekmehra/Winter_training_pep/tree/master/1816-truncate-sentence) |
 ## Divide and Conquer
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/mahekmehra/Winter_training_pep/tree/master/0709-to-lower-case) |
 | [0824-goat-latin](https://github.com/mahekmehra/Winter_training_pep/tree/master/0824-goat-latin) |
 | [1507-reformat-date](https://github.com/mahekmehra/Winter_training_pep/tree/master/1507-reformat-date) |
+| [1773-count-items-matching-a-rule](https://github.com/mahekmehra/Winter_training_pep/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/mahekmehra/Winter_training_pep/tree/master/1816-truncate-sentence) |
 ## Sliding Window
 |  |
