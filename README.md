@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mahekmehra/Winter_training_pep/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahekmehra/Winter_training_pep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/mahekmehra/Winter_training_pep/tree/master/0169-majority-element) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahekmehra/Winter_training_pep/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mahekmehra/Winter_training_pep/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mahekmehra/Winter_training_pep/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahekmehra/Winter_training_pep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/mahekmehra/Winter_training_pep/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/mahekmehra/Winter_training_pep/tree/master/0202-happy-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/1980-find-unique-binary-string) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/mahekmehra/Winter_training_pep/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/mahekmehra/Winter_training_pep/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/mahekmehra/Winter_training_pep/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/mahekmehra/Winter_training_pep/tree/master/0169-majority-element) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mahekmehra/Winter_training_pep/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -125,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mahekmehra/Winter_training_pep/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Heap (Priority Queue)
 |  |
