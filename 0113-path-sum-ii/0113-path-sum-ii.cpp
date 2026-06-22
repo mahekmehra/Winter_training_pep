@@ -15,9 +15,7 @@ public:
     void solve(TreeNode* root, int targetSum,vector<vector<int>>&ans, vector<int>temp,int &sum){
 
         if(root==NULL) return;
-        //if(sum>targetSum) return;
         
-
         sum+= root->val;
         temp.push_back(root->val);
 
