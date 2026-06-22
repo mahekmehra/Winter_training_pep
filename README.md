@@ -96,11 +96,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0113-path-sum-ii) |
 | [1980-find-unique-binary-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/1980-find-unique-binary-string) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0113-path-sum-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -167,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/mahekmehra/Winter_training_pep/tree/master/0705-design-hashset) |
+## Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0113-path-sum-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
