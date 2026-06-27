@@ -1,7 +1,7 @@
 class Solution {
 public:
 
-    void dfs(int i, int j,vector<vector<int>>& grid){
+    void dfs(int i, int j,vector<vector<int>>& grid,queue<pair<int,int>>&q){
 
         
         int n = grid.size();
@@ -9,10 +9,11 @@ public:
         if(i<0 || j<0 || i>=n || j>=m || grid[i][j]!=1) return;
 
         grid[i][j] = 2;
-        dfs(i+1,j,grid);
-        dfs(i,j+1,grid);
-        dfs(i-1,j,grid);
-        dfs(i,j-1,grid);
+        q.push({i,j});
+        dfs(i+1,j,grid,q);
+        dfs(i,j+1,grid,q);
+        dfs(i-1,j,grid,q);
+        dfs(i,j-1,grid,q);
 
         
     }
@@ -25,23 +26,17 @@ public:
         int m = grid[0].size();
 
         bool found = false;
-
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]==1 && !found){
-                    dfs(i,j,grid);
-                    found=true;
-                }
-            }
-        }
-
         queue<pair<int,int>>q;
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(grid[i][j]==2) q.push({i,j});
+                if(grid[i][j]==1 && !found){
+                    dfs(i,j,grid,q);
+                    found=true;
+                }
             }
         }
+        
 
         int dx[] = {1,-1,0,0};
         int dy[] = {0,0,1,-1};
