@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahekmehra/Winter_training_pep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mahekmehra/Winter_training_pep/tree/master/0169-majority-element) |
+| [0322-coin-change](https://github.com/mahekmehra/Winter_training_pep/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/mahekmehra/Winter_training_pep/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0542-01-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/mahekmehra/Winter_training_pep/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/mahekmehra/Winter_training_pep/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/mahekmehra/Winter_training_pep/tree/master/0377-combination-sum-iv) |
 | [0542-01-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0542-01-matrix) |
 ## Hash Table
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/mahekmehra/Winter_training_pep/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0542-01-matrix) |
 | [0934-shortest-bridge](https://github.com/mahekmehra/Winter_training_pep/tree/master/0934-shortest-bridge) |
 | [1765-map-of-highest-peak](https://github.com/mahekmehra/Winter_training_pep/tree/master/1765-map-of-highest-peak) |
