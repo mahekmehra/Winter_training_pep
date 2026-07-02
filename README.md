@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mahekmehra/Winter_training_pep/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/mahekmehra/Winter_training_pep/tree/master/0060-permutation-sequence) |
 | [0202-happy-number](https://github.com/mahekmehra/Winter_training_pep/tree/master/0202-happy-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mahekmehra/Winter_training_pep/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -210,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0542-01-matrix) |
 | [0934-shortest-bridge](https://github.com/mahekmehra/Winter_training_pep/tree/master/0934-shortest-bridge) |
 | [1765-map-of-highest-peak](https://github.com/mahekmehra/Winter_training_pep/tree/master/1765-map-of-highest-peak) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/mahekmehra/Winter_training_pep/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
