@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mahekmehra/Winter_training_pep/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mahekmehra/Winter_training_pep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/1980-find-unique-binary-string) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mahekmehra/Winter_training_pep/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/mahekmehra/Winter_training_pep/tree/master/0934-shortest-bridge) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1765-map-of-highest-peak](https://github.com/mahekmehra/Winter_training_pep/tree/master/1765-map-of-highest-peak) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mahekmehra/Winter_training_pep/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mahekmehra/Winter_training_pep/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -211,8 +214,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0542-01-matrix) |
 | [0934-shortest-bridge](https://github.com/mahekmehra/Winter_training_pep/tree/master/0934-shortest-bridge) |
 | [1765-map-of-highest-peak](https://github.com/mahekmehra/Winter_training_pep/tree/master/1765-map-of-highest-peak) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mahekmehra/Winter_training_pep/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/mahekmehra/Winter_training_pep/tree/master/0060-permutation-sequence) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mahekmehra/Winter_training_pep/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/mahekmehra/Winter_training_pep/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
