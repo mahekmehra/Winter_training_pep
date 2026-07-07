@@ -1,27 +1,28 @@
 class Solution {
 public:
     int pivotIndex(vector<int>& nums) {
-
         int n = nums.size();
-        vector<int> fwd(n+2,0);
-        vector<int> bwd(n+2,0);
 
-        for(int i=1;i<n+1;i++){
-            fwd[i] = fwd[i-1] + nums[i-1];
-        }
-        fwd[n+1] = fwd[n];
+        vector<int> prefix(n, 0);
+        vector<int> suffix(n, 0);
 
-        for(int i=n;i>0;i--){
-            bwd[i]= bwd[i+1] + nums[i-1];
-        }
-        bwd[0] = bwd[1];
+        prefix[0] = nums[0];
+        for (int i = 1; i < n; i++)
+            prefix[i] = prefix[i - 1] + nums[i];
 
-        for(int i=1;i<n+1;i++){
-            if(fwd[i-1]==bwd[i+1]){
-                return i-1;
-            }
+        suffix[n - 1] = nums[n - 1];
+        for (int i = n - 2; i >= 0; i--)
+            suffix[i] = suffix[i + 1] + nums[i];
+
+        for (int i = 0; i < n; i++) {
+            int leftSum = (i == 0) ? 0 : prefix[i - 1];
+            int rightSum = (i == n - 1) ? 0 : suffix[i + 1];
+
+            if (leftSum == rightSum)
+                return i;
         }
-        
+
         return -1;
-    }
+        }
 };
+    
