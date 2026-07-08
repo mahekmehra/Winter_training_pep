@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mahekmehra/Winter_training_pep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/1980-find-unique-binary-string) |
 | [2103-rings-and-rods](https://github.com/mahekmehra/Winter_training_pep/tree/master/2103-rings-and-rods) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mahekmehra/Winter_training_pep/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mahekmehra/Winter_training_pep/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/mahekmehra/Winter_training_pep/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mahekmehra/Winter_training_pep/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
