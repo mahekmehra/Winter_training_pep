@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahekmehra/Winter_training_pep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mahekmehra/Winter_training_pep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mahekmehra/Winter_training_pep/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0220-contains-duplicate-iii) |
 | [0322-coin-change](https://github.com/mahekmehra/Winter_training_pep/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/mahekmehra/Winter_training_pep/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahekmehra/Winter_training_pep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0220-contains-duplicate-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0220-contains-duplicate-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/mahekmehra/Winter_training_pep/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/mahekmehra/Winter_training_pep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mahekmehra/Winter_training_pep/tree/master/0217-contains-duplicate) |
+| [0220-contains-duplicate-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0220-contains-duplicate-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -246,4 +249,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mahekmehra/Winter_training_pep/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
