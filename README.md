@@ -263,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0220-contains-duplicate-iii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/mahekmehra/Winter_training_pep/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
