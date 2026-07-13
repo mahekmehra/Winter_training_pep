@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mahekmehra/Winter_training_pep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mahekmehra/Winter_training_pep/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/mahekmehra/Winter_training_pep/tree/master/0705-design-hashset) |
+| [1189-maximum-number-of-balloons](https://github.com/mahekmehra/Winter_training_pep/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/1980-find-unique-binary-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/mahekmehra/Winter_training_pep/tree/master/0709-to-lower-case) |
 | [0824-goat-latin](https://github.com/mahekmehra/Winter_training_pep/tree/master/0824-goat-latin) |
+| [1189-maximum-number-of-balloons](https://github.com/mahekmehra/Winter_training_pep/tree/master/1189-maximum-number-of-balloons) |
 | [1507-reformat-date](https://github.com/mahekmehra/Winter_training_pep/tree/master/1507-reformat-date) |
 | [1773-count-items-matching-a-rule](https://github.com/mahekmehra/Winter_training_pep/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/mahekmehra/Winter_training_pep/tree/master/1816-truncate-sentence) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mahekmehra/Winter_training_pep/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/mahekmehra/Winter_training_pep/tree/master/1189-maximum-number-of-balloons) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Heap (Priority Queue)
 |  |
