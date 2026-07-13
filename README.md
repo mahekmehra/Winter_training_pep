@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-shortest-bridge](https://github.com/mahekmehra/Winter_training_pep/tree/master/0934-shortest-bridge) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/mahekmehra/Winter_training_pep/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1331-rank-transform-of-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mahekmehra/Winter_training_pep/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mahekmehra/Winter_training_pep/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/mahekmehra/Winter_training_pep/tree/master/0705-design-hashset) |
+| [1331-rank-transform-of-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1331-rank-transform-of-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1980-find-unique-binary-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/1980-find-unique-binary-string) |
 | [2103-rings-and-rods](https://github.com/mahekmehra/Winter_training_pep/tree/master/2103-rings-and-rods) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/mahekmehra/Winter_training_pep/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1331-rank-transform-of-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mahekmehra/Winter_training_pep/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
