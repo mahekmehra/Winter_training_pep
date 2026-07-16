@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mahekmehra/Winter_training_pep/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/mahekmehra/Winter_training_pep/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/mahekmehra/Winter_training_pep/tree/master/0709-to-lower-case) |
 | [0824-goat-latin](https://github.com/mahekmehra/Winter_training_pep/tree/master/0824-goat-latin) |
 | [1189-maximum-number-of-balloons](https://github.com/mahekmehra/Winter_training_pep/tree/master/1189-maximum-number-of-balloons) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahekmehra/Winter_training_pep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mahekmehra/Winter_training_pep/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0680-valid-palindrome-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0680-valid-palindrome-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahekmehra/Winter_training_pep/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0680-valid-palindrome-ii) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mahekmehra/Winter_training_pep/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Prefix Sum
 |  |
