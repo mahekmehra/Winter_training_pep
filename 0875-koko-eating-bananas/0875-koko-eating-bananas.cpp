@@ -1,8 +1,8 @@
 class Solution {
 public:
 
-    bool check(int mid,int h,vector<int>& piles){
-
+    bool check(int mid,int h,vector<int>& piles){ //check if whole pile can be finished within h hours (h>=0)
+ 
         for(int x:piles){
             int rem = (x/mid);
             h-=rem;
@@ -31,7 +31,7 @@ public:
             }
         }
 
-        return l;
+        return l; //return the lowest found answer
         
     }
 };
