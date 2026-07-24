@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahekmehra/Winter_training_pep/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mahekmehra/Winter_training_pep/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mahekmehra/Winter_training_pep/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mahekmehra/Winter_training_pep/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1765-map-of-highest-peak](https://github.com/mahekmehra/Winter_training_pep/tree/master/1765-map-of-highest-peak) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/mahekmehra/Winter_training_pep/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mahekmehra/Winter_training_pep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mahekmehra/Winter_training_pep/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/mahekmehra/Winter_training_pep/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mahekmehra/Winter_training_pep/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
