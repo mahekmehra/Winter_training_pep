@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/mahekmehra/Winter_training_pep/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/mahekmehra/Winter_training_pep/tree/master/0377-combination-sum-iv) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0542-01-matrix) |
 | [0705-design-hashset](https://github.com/mahekmehra/Winter_training_pep/tree/master/0705-design-hashset) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/mahekmehra/Winter_training_pep/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/mahekmehra/Winter_training_pep/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0542-01-matrix) |
 ## Hash Table
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahekmehra/Winter_training_pep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0410-split-array-largest-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/mahekmehra/Winter_training_pep/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mahekmehra/Winter_training_pep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -222,11 +225,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mahekmehra/Winter_training_pep/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0680-valid-palindrome-ii) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mahekmehra/Winter_training_pep/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/mahekmehra/Winter_training_pep/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mahekmehra/Winter_training_pep/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
