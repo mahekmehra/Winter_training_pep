@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/mahekmehra/Winter_training_pep/tree/master/0709-to-lower-case) |
 | [0824-goat-latin](https://github.com/mahekmehra/Winter_training_pep/tree/master/0824-goat-latin) |
+| [1021-remove-outermost-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/1021-remove-outermost-parentheses) |
 | [1189-maximum-number-of-balloons](https://github.com/mahekmehra/Winter_training_pep/tree/master/1189-maximum-number-of-balloons) |
 | [1507-reformat-date](https://github.com/mahekmehra/Winter_training_pep/tree/master/1507-reformat-date) |
 | [1773-count-items-matching-a-rule](https://github.com/mahekmehra/Winter_training_pep/tree/master/1773-count-items-matching-a-rule) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahekmehra/Winter_training_pep/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Database
 |  |
