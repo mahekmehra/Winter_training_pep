@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/mahekmehra/Winter_training_pep/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mahekmehra/Winter_training_pep/tree/master/0016-3sum-closest) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahekmehra/Winter_training_pep/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/0151-reverse-words-in-a-string) |
@@ -316,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mahekmehra/Winter_training_pep/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mahekmehra/Winter_training_pep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
