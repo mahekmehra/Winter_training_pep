@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahekmehra/Winter_training_pep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0032-longest-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
+| [0151-reverse-words-in-a-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/mahekmehra/Winter_training_pep/tree/master/0242-valid-anagram) |
 | [0520-detect-capital](https://github.com/mahekmehra/Winter_training_pep/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/mahekmehra/Winter_training_pep/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/mahekmehra/Winter_training_pep/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahekmehra/Winter_training_pep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mahekmehra/Winter_training_pep/tree/master/0202-happy-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0557-reverse-words-in-a-string-iii) |
