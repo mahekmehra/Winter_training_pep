@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/mahekmehra/Winter_training_pep/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/mahekmehra/Winter_training_pep/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/mahekmehra/Winter_training_pep/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/mahekmehra/Winter_training_pep/tree/master/0877-stone-game) |
 | [0934-shortest-bridge](https://github.com/mahekmehra/Winter_training_pep/tree/master/0934-shortest-bridge) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mahekmehra/Winter_training_pep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/mahekmehra/Winter_training_pep/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/mahekmehra/Winter_training_pep/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/mahekmehra/Winter_training_pep/tree/master/0060-permutation-sequence) |
 | [0202-happy-number](https://github.com/mahekmehra/Winter_training_pep/tree/master/0202-happy-number) |
+| [0877-stone-game](https://github.com/mahekmehra/Winter_training_pep/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mahekmehra/Winter_training_pep/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/1903-largest-odd-number-in-string) |
@@ -322,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0014-longest-common-prefix) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/mahekmehra/Winter_training_pep/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
