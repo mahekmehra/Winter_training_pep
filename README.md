@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/mahekmehra/Winter_training_pep/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/mahekmehra/Winter_training_pep/tree/master/0877-stone-game) |
 | [0934-shortest-bridge](https://github.com/mahekmehra/Winter_training_pep/tree/master/0934-shortest-bridge) |
+| [1004-max-consecutive-ones-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mahekmehra/Winter_training_pep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1162-as-far-from-land-as-possible](https://github.com/mahekmehra/Winter_training_pep/tree/master/1162-as-far-from-land-as-possible) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahekmehra/Winter_training_pep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0220-contains-duplicate-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0220-contains-duplicate-iii) |
+| [1004-max-consecutive-ones-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/mahekmehra/Winter_training_pep/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/mahekmehra/Winter_training_pep/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/mahekmehra/Winter_training_pep/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/mahekmehra/Winter_training_pep/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/mahekmehra/Winter_training_pep/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Monotonic Stack
