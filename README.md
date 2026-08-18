@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mahekmehra/Winter_training_pep/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mahekmehra/Winter_training_pep/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0220-contains-duplicate-iii) |
+| [0238-product-of-array-except-self](https://github.com/mahekmehra/Winter_training_pep/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/mahekmehra/Winter_training_pep/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/mahekmehra/Winter_training_pep/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/mahekmehra/Winter_training_pep/tree/master/0377-combination-sum-iv) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mahekmehra/Winter_training_pep/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/mahekmehra/Winter_training_pep/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0930-binary-subarrays-with-sum) |
