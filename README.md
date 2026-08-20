@@ -395,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mahekmehra/Winter_training_pep/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/mahekmehra/Winter_training_pep/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
