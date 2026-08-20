@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/mahekmehra/Winter_training_pep/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mahekmehra/Winter_training_pep/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/1980-find-unique-binary-string) |
+| [2643-row-with-maximum-ones](https://github.com/mahekmehra/Winter_training_pep/tree/master/2643-row-with-maximum-ones) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mahekmehra/Winter_training_pep/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/mahekmehra/Winter_training_pep/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mahekmehra/Winter_training_pep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/mahekmehra/Winter_training_pep/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1765-map-of-highest-peak](https://github.com/mahekmehra/Winter_training_pep/tree/master/1765-map-of-highest-peak) |
+| [2643-row-with-maximum-ones](https://github.com/mahekmehra/Winter_training_pep/tree/master/2643-row-with-maximum-ones) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mahekmehra/Winter_training_pep/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Stack
 |  |
