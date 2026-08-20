@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/mahekmehra/Winter_training_pep/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/mahekmehra/Winter_training_pep/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/mahekmehra/Winter_training_pep/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/mahekmehra/Winter_training_pep/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/mahekmehra/Winter_training_pep/tree/master/0075-sort-colors) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/mahekmehra/Winter_training_pep/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0054-spiral-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/mahekmehra/Winter_training_pep/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/mahekmehra/Winter_training_pep/tree/master/3867-sum-of-gcd-of-formed-pairs) |
