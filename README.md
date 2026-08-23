@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/mahekmehra/Winter_training_pep/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/mahekmehra/Winter_training_pep/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/0088-merge-sorted-array) |
+| [0143-reorder-list](https://github.com/mahekmehra/Winter_training_pep/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mahekmehra/Winter_training_pep/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mahekmehra/Winter_training_pep/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/mahekmehra/Winter_training_pep/tree/master/0202-happy-number) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mahekmehra/Winter_training_pep/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/mahekmehra/Winter_training_pep/tree/master/0143-reorder-list) |
 | [1021-remove-outermost-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mahekmehra/Winter_training_pep/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Database
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mahekmehra/Winter_training_pep/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/mahekmehra/Winter_training_pep/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/mahekmehra/Winter_training_pep/tree/master/0143-reorder-list) |
 | [0705-design-hashset](https://github.com/mahekmehra/Winter_training_pep/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/mahekmehra/Winter_training_pep/tree/master/0876-middle-of-the-linked-list) |
 ## Design
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/mahekmehra/Winter_training_pep/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/mahekmehra/Winter_training_pep/tree/master/0143-reorder-list) |
 ## Graph Theory
 |  |
 | ------- |
