@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mahekmehra/Winter_training_pep/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/mahekmehra/Winter_training_pep/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/mahekmehra/Winter_training_pep/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mahekmehra/Winter_training_pep/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/mahekmehra/Winter_training_pep/tree/master/0322-coin-change) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mahekmehra/Winter_training_pep/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/mahekmehra/Winter_training_pep/tree/master/0060-permutation-sequence) |
+| [0070-climbing-stairs](https://github.com/mahekmehra/Winter_training_pep/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/mahekmehra/Winter_training_pep/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/mahekmehra/Winter_training_pep/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mahekmehra/Winter_training_pep/tree/master/0056-merge-intervals) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mahekmehra/Winter_training_pep/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
