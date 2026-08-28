@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mahekmehra/Winter_training_pep/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mahekmehra/Winter_training_pep/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mahekmehra/Winter_training_pep/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mahekmehra/Winter_training_pep/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/mahekmehra/Winter_training_pep/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mahekmehra/Winter_training_pep/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/mahekmehra/Winter_training_pep/tree/master/0705-design-hashset) |
 ## Hash Function
 |  |
@@ -338,12 +340,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahekmehra/Winter_training_pep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mahekmehra/Winter_training_pep/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/mahekmehra/Winter_training_pep/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mahekmehra/Winter_training_pep/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mahekmehra/Winter_training_pep/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mahekmehra/Winter_training_pep/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -418,4 +422,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/mahekmehra/Winter_training_pep/tree/master/0070-climbing-stairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mahekmehra/Winter_training_pep/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/mahekmehra/Winter_training_pep/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
