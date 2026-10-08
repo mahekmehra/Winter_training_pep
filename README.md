@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mahekmehra/Winter_training_pep/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/mahekmehra/Winter_training_pep/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/mahekmehra/Winter_training_pep/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/mahekmehra/Winter_training_pep/tree/master/0076-minimum-window-substring) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/mahekmehra/Winter_training_pep/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/mahekmehra/Winter_training_pep/tree/master/0143-reorder-list) |
@@ -436,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/mahekmehra/Winter_training_pep/tree/master/0703-kth-largest-element-in-a-stream) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mahekmehra/Winter_training_pep/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
